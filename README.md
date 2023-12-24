@@ -1,0 +1,2 @@
+# amadeususecase
+usecase for amadeus
